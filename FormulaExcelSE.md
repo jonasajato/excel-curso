@@ -1,4 +1,3 @@
-# excel-curso
 <h1 align="center"><strong> Fórmulas Excel SE - Curso CEBRAC </h1></strong>
 <strong>Fórmula SE</strong>
 <p><b>Observe a tabela:</b></h1></p>
